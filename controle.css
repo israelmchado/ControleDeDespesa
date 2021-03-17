@@ -131,3 +131,10 @@ input[type="number"] {
 .transactions li:hover .delete-btn {
   opacity: 1;
 }
+
+footer {
+    margin-bottom: 0;
+    display: flex;
+    justify-content: center;
+    font-size: 13px;
+}
